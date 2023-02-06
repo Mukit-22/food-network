@@ -17,6 +17,10 @@ h1 {
     color: rgb(75, 75, 75);
 }
 
+h2 {
+    font-size: 45px;
+}
+
 .half-width {
     width: 100%;
     padding-left: 5%;
@@ -44,4 +48,11 @@ h1 {
 .pad {
     margin-top: 5%;
     margin-left: 5%;
+}
+
+.banner {
+    background-image: url("images/Frame\ 57.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: 100%;
 }
