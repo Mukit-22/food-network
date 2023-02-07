@@ -56,3 +56,7 @@ h2 {
     background-repeat: no-repeat;
     background-position-y: 100%;
 }
+
+#align {
+    text-align: center;
+}
