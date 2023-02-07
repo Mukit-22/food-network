@@ -60,3 +60,24 @@ h2 {
 #align {
     text-align: center;
 }
+
+.main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 5px 40px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+    width: 26%;
+    text-align: center;
+}
+
+.radius {
+    border-radius: 10px;
+}
